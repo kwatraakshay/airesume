@@ -1,0 +1,104 @@
+Senior Full Stack Engineer
+Company Overview
+Delphi Digital is a dynamic and well respected crypto research and consulting company dedicated to advancing the global crypto ecosystem through cutting-edge research and consulting. We're committed to pushing the boundaries of technology to deliver exceptional products that exceed our clients' expectations.
+Position Overview
+We are seeking a highly skilled and innovative AI Developer to join our dynamic team. This multifaceted role combines full-stack development expertise with AI/ML specialization to build intelligent agents and productivity tools that transform our sales and marketing operations. The ideal candidate will have a passion for developing scalable AI-powered solutions and a strong understanding of both traditional software development and modern AI technologies.
+Location: Remote
+Key Responsibilities
+AI & Automation Development
+Design and develop AI agents for sales automation, lead qualification, customer segmentation, and marketing campaign optimization
+Build intelligent productivity tools that streamline sales workflows and enhance marketing effectiveness
+Implement machine learning models for predictive analytics, customer behavior analysis, and sales forecasting
+Create automated systems for content generation, email marketing, and customer engagement
+Develop chatbots and conversational AI interfaces for customer support and lead generation
+Full Stack Development
+Design, develop, and maintain scalable and robust web applications from frontend to backend
+Collaborate with engineering team and designers to translate requirements into technical specifications
+Write clean, efficient, well-tested, and documented code using best practices
+Implement responsive and intuitive user interfaces with a focus on user experience
+Integrate external APIs and third-party services to enhance application functionality
+Perform code reviews, identify areas for improvement, and advocate for code quality and best practices
+Troubleshoot and debug issues to ensure optimal performance and reliability of applications
+Stay up-to-date with emerging technologies and trends in full stack development
+Ensure code dependencies are kept up to date
+Integrate AI capabilities seamlessly into existing web applications and workflows
+Cloud Infrastructure & Operations
+Leverage AWS services (ECS, Lambda, API Gateway, DynamoDB, RDS, Step Functions, etc.) to build scalable AI solutions
+Implement serverless architectures for AI model deployment and real-time processing
+Design and maintain CI/CD pipelines using CodePipeline and CodeBuild
+Support internal IT operations by providing assistance through tasks such as:
+New hire security training
+Employee account management
+Bug bounty program management
+Subscription management support
+Data & Analytics
+Work with multiple database systems (DynamoDB, Aurora MySQL, WordPress) to manage and analyze customer data
+Build data pipelines for AI model training and real-time inference
+Implement analytics dashboards and reporting tools for sales and marketing insights
+Ensure data quality, security, and compliance across all AI systems
+Our Tech Stack
+Backend Services
+Identity Service: NestJS/TypeScript
+Subscription Service: NestJS/TypeScript
+Super Service: Phoenix/Elixir/TypeScript
+AWS Cloud Infrastructure
+Compute: ECS, Lambda
+Networking: CloudFront, API Gateway
+Messaging: SQS, SNS, EventBridge
+Data Storage: DynamoDB, RDS (Aurora MySQL)
+CI/CD: CodePipeline, CodeBuild
+Orchestration: Step Functions
+Monitoring: CloudWatch (logs, alarms, dashboards)
+Frontend Architecture
+Server Layer:
+BFF (Backend for Frontend): Express
+Web Application: Nuxt
+Framework: Vue.js
+Database Systems
+WordPress
+DynamoDB
+RDS (Aurora MySQL)
+Development & Deployment
+Version Control: Git
+Cloud Providers:
+APIs: AWS
+Web Applications: Google Cloud Platform
+Required Qualifications
+Technical Skills
+Backend Development: Proficiency in NestJS/TypeScript and Phoenix/Elixir
+Frontend Development: Strong experience with Vue.js, Nuxt, and Express BFF patterns
+AI/ML Expertise: Experience with machine learning frameworks, natural language processing, and AI model deployment
+AWS Services: Hands-on experience with ECS, Lambda, API Gateway, DynamoDB, RDS, Step Functions, CloudWatch, EventBridge, SQS, SNS
+Database Systems: Proficiency with DynamoDB, Aurora MySQL, and WordPress
+Version Control: Advanced Git knowledge and collaborative development practices
+Experience & Education
+Bachelor's degree in Computer Science, AI/ML, Engineering, or equivalent experience
+Minimum 5 years of full-stack development experience
+2+ years of hands-on AI/ML development and deployment experience
+Proven track record of building and deploying AI-powered applications in production
+Core Competencies
+Strong understanding of RESTful APIs and microservice architecture
+Experience with CI/CD pipelines and DevOps practices
+Knowledge of containerization (Docker) and orchestration tools
+Excellent problem-solving skills and attention to detail
+Ability to work independently and collaboratively in a fast-paced environment
+Strong communication skills to explain technical AI concepts to non-technical stakeholders
+Preferred Qualifications
+Experience with OpenAI GPT models, LangChain, or similar AI frameworks
+Knowledge of sales automation tools (HubSpot, Salesforce, etc.)
+Experience with marketing automation platforms and CRM integration
+Background in sales or marketing domain knowledge
+Contributions to open-source AI projects or strong GitHub profile
+Experience with A/B testing and conversion optimization
+Knowledge of Google Cloud Platform services
+
+
+Why Join Us?
+Work on cutting-edge AI projects that directly impact business growth
+Opportunity to shape the future of sales and marketing automation
+Collaborative environment with cross-functional teams
+Continuous learning and professional development opportunities
+Competitive compensation and benefits package
+Flexible remote work environment
+If you're a passionate AI Developer looking to make a meaningful impact by building intelligent solutions that revolutionize sales and marketing, we want to hear from you! Apply now to join our innovative team and help us build the future of business automation.
+
